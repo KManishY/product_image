@@ -1,0 +1,515 @@
+{
+	"products": [
+		{
+			"prod_name": "Brass Gold Classic Round Wall Light",
+			"prod_cat": "Lamp",
+			"prod_desc": "A designer globe wall mounted light which imparts any wall an ageless beauty. The soft light spreads a blissful aura around the place unlike regular wall mounted lights. Made of high quality metal and glass, this wall light possess the desired durability and resiliency. Make your living room, bedroom or foyer look amazing with these modern designer wall lights.",
+			"prod_price": "2399",
+			"prod_rating": "4",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Brass%20Gold%20Classic%20Round%20Wall%20Light%201.webp",
+			"prod_discount": "10",
+			"prod_tag": "Lamp And Lights"
+		},
+		{
+			"prod_name": "Elegant Golden Metal Cage Table Lamp",
+			"prod_cat": "Lamp",
+			"prod_desc": "Some decor products are made to infuse a distinct aura at homes, but this table lamp surpasses all other decor items with its sheer sophistication. This minimalist metal table lamp dazzles and refracts light to make a remarkable lighting experience. The product becomes the stylistic reference point for the room when illuminated. It also befits well as a bedside lamp or study lamp.",
+			"prod_price": "1349",
+			"prod_rating": "3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Elegant%20Golden%20Metal%20Cage%20Table%20Lamp.webp",
+			"prod_discount": "15",
+			"prod_tag": "Lamp And Lights"
+		},
+		{
+			"prod_name": "Bird Cage Designer Modern Hanging Light",
+			"prod_cat": "Lamp",
+			"prod_desc": "A distinctly made hanging light which imparts any home a timeless beauty. The warm glow spreads a blissful aura around the place unlike other lights in your home. Made of premium quality wood, this hanging light possess the desired durability and resiliency. Make your living room or bedroom look amazing with this wonderful ceiling light",
+			"prod_price": "5999",
+			"prod_rating": "3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Bird%20Cage%20Designer%20Modern%20Hanging%20Light.webp",
+			"prod_discount": "7",
+			"prod_tag": "Lamp And Lights"
+		},
+		{
+			"prod_name": "Playful Figurine Wooden Floor Lamp",
+			"prod_cat": "Lamp",
+			"prod_desc": "An eccentric human figure floor lamp that instantly lifts up the mood. A fun and creative designer wooden lamp which could be the best addition to the living room as well as bedroom. The best part is, it is movable and adjustable, therefore you can change it's position and stance as according to the way you want",
+			"prod_price": "4999",
+			"prod_rating": "5",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Playful%20Figurine%20Wooden%20Floor%20Lamp.webp",
+			"prod_discount": "25",
+			"prod_tag": "Lamp And Lights"
+		},
+		{
+			"prod_name": "The Chevron Designer Wood Floor Lamp",
+			"prod_cat": "Lamp",
+			"prod_desc": "This Modern Design Wood floor Lamp is made of height quality imported pine engineered wood and assembled by hands. The package includes a ready to hang lamp with warm white bulb. This hanging lamp will add a charisma to your home whether it's day or night. Not in the room but can be placed in any desired corner. The gleam of shadowed light including different structures is just a peaceful engagement with loved ones. If you are worried about the bulb lighting period then give a pause because the bulb inside the box will work till eternity.",
+			"prod_price": "6999",
+			"prod_rating": "5",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/The%20Chevron%20Designer%20Wood%20Floor%20Lamp.webp",
+			"prod_discount": "12",
+			"prod_tag": "Lamp And Lights"
+		},
+		{
+			"prod_name": "Slender Black pots",
+			"prod_cat": "Pots & Planters",
+			"prod_desc": "The round metallic black pots are nothing but classic semblance in your home. The polished outer imparts a luxe impression to the pots which adorns any corner. Due to its attractive shine and lustrous exterior, these two pots can draw the attention of anyone who visits your place if you place them at your primary entrance. It can last for years with little care",
+			"prod_price": "4349",
+			"prod_rating": "3.5",
+			"prod_image": "https://github.com/KManishY/product_image/blob/main/iMAGE/Slender%20Black%20pots.jpg?raw=true",
+			"prod_discount": "5",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Handwoven Boho Plant Hanger",
+			"prod_cat": "Pots & Planters",
+			"prod_desc": "Handmade of natural, high quality cotton and designed to exceed your highest expectations! A timeless bohemian style with great accent matches with any modern or conventional style. Sleek plant hanger that matches perfectly with neutral pots and pottery. Cotton macrame plant hanger can be used for indoor, outdoor, balcony, living room, kitchen, deck, patio, high and low ceiling and fits round & square pots. Unique design and hand knotted with finesse endless applications include hanging ceramic pots, metal pots, plastic pots, glass pots",
+			"prod_price": "299",
+			"prod_rating": "4",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Handwoven%20Boho%20Plant%20Hanger.webp",
+			"prod_discount": "12",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Golden Metal Plant Pots With Wide Golden Stands",
+			"prod_cat": "Pots & Planters",
+			"prod_desc": "Add new life to your home and make any room look amazing. Enjoy your favorite plants in a trendy new plant pot and handsome plant stand. Green plants reduce stress and increase joy in the home - treat yourself with a new plant to show off this beautiful metal pot. Made of high grade metal with a rich powder coat finish, each planter is composed of high grade galvanized sheet in a stunning matte finish to ensure durability. Plant stand is sturdy to support your plants and perfectly complements this planter",
+			"prod_price": "4999",
+			"prod_rating": "5",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Golden%20Metal%20Plant%20Pots%20With%20Wide%20Golden%20Stands.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Ancient Motif Hammered Golden Hanging Planter",
+			"prod_cat": "Pots & Planters",
+			"prod_desc": "Add new life to your home and make any room look amazing. Enjoy your favorite plants in a trendy new plant pot and handsome plant stand. Green plants reduce stress and increase joy in the home - treat yourself with a new plant to show off this beautiful metal pot. Made of high grade metal with a rich powder coat finish, each planter is composed of high grade galvanized sheet in a stunning matte finish to ensure durability. Plant stand is sturdy to support your plants and perfectly complements this planter",
+			"prod_price": "2199",
+			"prod_rating": "4.3",
+			"prod_image": "https://github.com/KManishY/product_image/blob/main/iMAGE/Ancient%20Motif%20Hammered%20Golden%20Hanging%20Planter.jpg?raw=true",
+			"prod_discount": "7",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Hammered Half Bowl Metallic Planters",
+			"prod_cat": "Pots & Planters",
+			"prod_desc": "Add new life to your home and make any room look amazing. Enjoy your favorite plants in a trendy new plant pot and handsome plant stand. Green plants reduce stress and increase joy in the home - treat yourself with a new plant to show off this beautiful metal pot. Made of high grade metal with a rich powder coat finish, each planter is composed of high grade galvanized sheet in a stunning matte finish to ensure durability. Plant stand is sturdy to support your plants and perfectly complements this planter.",
+			"prod_price": "1899",
+			"prod_rating": "3.7",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Hammered%20Half%20Bowl%20Metallic%20Planters.webp",
+			"prod_discount": "12",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Elegant Round Transparent Wall Terrarium",
+			"prod_cat": "Aquariums & Terrariums",
+			"prod_desc": "These beautiful wall terrarium is designed to bring some live beauty to your walls. You can fill it with multi-colours super marbles and keep chips pebbles in it, or just create a small plant ecosystem right on your wall of choice. Wall decor in your home was never so stylish yet space saving before. This nature-inspired material gives an elegant look due to their attractive colors and polish. You can build a green curtain in your home by using these wall terrariums. Wonderful naturalistic design can be created by using nature-inspired materials in the living room.   ",
+			"prod_price": "3499",
+			"prod_rating": "3.7",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Elegant%20Round%20Transparent%20Wall%20Aquarium.webp",
+			"prod_discount": "5",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Heart Shaped Transparent Wall Aquarium",
+			"prod_cat": "Aquariums & Terrariums",
+			"prod_desc": "These beautiful wall transparent aquariums and terrariums are designed to bring some live beauty to your walls. You can fill with water and keep fish in them, or just create a small plant ecosystem right on your wall of choice. Keeping fish in your home was never so stylish yet space saving before",
+			"prod_price": "3999",
+			"prod_rating": "4.1",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Heart%20Shaped%20Transparent%20Wall%20Aquarium.webp",
+			"prod_discount": "8",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Egg Shaped Transparent Wall Aquarium",
+			"prod_cat": "Aquariums & Terrariums",
+			"prod_desc": "These beautiful transparent wall aquariums and terrariums are designed to bring some live beauty to your walls. You can fill with water and keep fish in them, or just create a small plant ecosystem right on your wall of choice. Keeping fish in your home was never so stylish yet space saving before.",
+			"prod_price": "4249",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Egg%20Shaped%20Transparent%20Wall%20Aquarium.webp",
+			"prod_discount": "15",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Beautiful Diamond Shaped Transparent Wall Terrarium",
+			"prod_cat": "Aquariums & Terrariums",
+			"prod_desc": "These beautiful wall terrarium is designed to bring some live beauty to your walls. You can fill it with multi-colours super marbles and keep chips pebbles in it, or just create a small plant ecosystem right on your wall of choice. Wall decor in your home was never so stylish yet space saving before. This nature-inspired material gives an elegant look due to their attractive colors and polish. You can build a green curtain in your home by using these wall terrariums. Wonderful naturalistic design can be created by using nature-inspired materials in the living room.",
+			"prod_price": "6999",
+			"prod_rating": "4.7",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Elegant%20Round%20Transparent%20Wall%20Terrarium.webp",
+			"prod_discount": "5",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Elegant Round Transparent Wall Aquarium",
+			"prod_cat": "Aquariums & Terrariums",
+			"prod_desc": "These beautiful wall aquariums and terrariums are designed to bring some live beauty to your walls. You can fill with water and keep fish in them, or just create a small plant ecosystem right on your wall of choice. Keeping fish in your home was never so stylish yet space saving before.",
+			"prod_price": "4999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Elegant%20Round%20Transparent%20Wall%20Aquarium.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		
+		{
+			"prod_name": "Buddha Polyresin Indoor Water Fountain With Light",
+			"prod_cat": "Table Fountains",
+			"prod_desc": "Shaped by moulds to give rise to beautiful, lifelike and colorful figures. Can be ornamental and practical. Indoor decoration, ideal for beautifying the look of your home and bringing solace and tranquility to your home. Bring soothing and relaxing water fountain home for a peaceful corner",
+			"prod_price": "2999",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Buddha%20Polyresin%20Indoor%20Water%20Fountain%20With%20Light.webp",
+			"prod_discount": "7",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Buddha Under The Tree Polyresin Indoor Water Fountain",
+			"prod_cat": "Table Fountains",
+			"prod_desc": "Shaped by moulds to give rise to beautiful, lifelike and colorful figures. Can be ornamental and practical. Indoor decoration, ideal for beautifying the look of your home and bringing solace and tranquility to your home. Bring soothing and relaxing water fountain home for a peaceful corner",
+			"prod_price": "2789",
+			"prod_rating": "3.6",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Buddha%20Under%20The%20Tree%20Polyresin%20Indoor%20Water%20Fountain.webp",
+			"prod_discount": "5",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Golden Ganesha Polyresin Decorative Indoor Water Fountain",
+			"prod_cat": "Table Fountains",
+			"prod_desc": "Shaped by moulds to give rise to beautiful, lifelike and colorful figures. Can be ornamental and practical. Indoor decoration, ideal for beautifying the look of your home and bringing solace and tranquility to your home. Bring soothing and relaxing water fountain home for a peaceful corner",
+			"prod_price": "3499",
+			"prod_rating": "4.6",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Golden%20Ganesha%20Polyresin%20Decorative%20Indoor%20Water%20Fountain.webp",
+			"prod_discount": "20",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Black Polyresin Meditating Buddha Indoor Water Fountain",
+			"prod_cat": "Table Fountains",
+			"prod_desc": "Shaped by moulds to give rise to beautiful, lifelike and colorful figures. Can be ornamental and practical. Indoor decoration, ideal for beautifying the look of your home and bringing solace and tranquility to your home. Bring soothing and relaxing water fountain home for a peaceful corner.",
+			"prod_price": "3499",
+			"prod_rating": "4.2",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Black%20Polyresin%20Meditating%20Buddha%20Indoor%20Water%20Fountain.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Ganesha With Flowing Kalash White Polyresin Indoor Water Fountain",
+			"prod_cat": "Table Fountains",
+			"prod_desc": "Shaped by moulds to give rise to beautiful, lifelike and colorful figures. Can be ornamental and practical. Indoor decoration, ideal for beautifying the look of your home and bringing solace and tranquility to your home. Bring soothing and relaxing water fountain home for a peaceful corner",
+			"prod_price": "3199",
+			"prod_rating": "3.2",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Ganesha%20With%20Flowing%20Kalash%20White%20Polyresin%20Indoor%20Water%20Fountain.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "White Metal Watering Can For Home Gardening",
+			"prod_cat": "Garden Accessories",
+			"prod_desc": "Introducing little watering cans in vibrant colors for gardening purposes. Compact in size and minimal in design, this watering can could also be used by kids if they have a newly found interest in gardening. Strong metal body which makes it break-free and durable. Ideal for waterning shrubs and indoor plants",
+			"prod_price": "2199",
+			"prod_rating": "4.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/White%20Metal%20Watering%20Can%20For%20Home%20Gardening.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Chalky White Flat Base Watering Can",
+			"prod_cat": "Garden Accessories",
+			"prod_desc": "Introducing little watering cans in vibrant colors for gardening purposes. Compact in size and minimal in design, this watering can could also be used by kids if they have a newly found interest in gardening. Strong metal body which makes it break-free and durable. Ideal for waterning shrubs and indoor plants",
+			"prod_price": "1199",
+			"prod_rating": "4.7",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Chalky%20White%20Flat%20Base%20Watering%20Can.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Matte Sunshine Steel Watering Can",
+			"prod_cat": "Garden Accessories",
+			"prod_desc": "Introducing little watering cans in vibrant colors for gardening purposes. Compact in size and minimal in design, this watering can could also be used by kids if they have a newly found interest in gardening. Strong metal body which makes it break-free and durable. Ideal for waterning shrubs and indoor plants",
+			"prod_price": "1699",
+			"prod_rating": "4.2",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Matte%20Sunshine%20Steel%20Watering%20Can.webp",
+			"prod_discount": "10",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Mud-Spattered Classic Watering Can",
+			"prod_cat": "Garden Accessories",
+			"prod_desc": "Introducing little watering cans in vibrant colors for gardening purposes. Compact in size and minimal in design, this watering can could also be used by kids if they have a newly found interest in gardening. Strong metal body which makes it break-free and durable. Ideal for waterning shrubs and indoor plants",
+			"prod_price": "2199",
+			"prod_rating": "4.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Mud-Spattered%20Classic%20Watering%20Can.webp",
+			"prod_discount": "15",
+			"prod_tag": "Home Garden"
+		},
+		{
+			"prod_name": "Light Yellow Designer Sheer Window Net Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Cortina's new range of designer sheer curtains are a touch of bliss in your home. The elegance of the pattern coupled with the translucent texture imparts a pleasing look to the curtain which makes any door or window appear attractive and enhances the beauty of your existing decor",
+			"prod_price": "3199",
+			"prod_rating": "4.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Light%20Yellow%20Designer%20Sheer%20Window%20Net%20Curtain.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "White Designer Eyelet Window Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Cortina's new range of designer sheer curtains are a touch of bliss in your home. The elegance of the pattern coupled with the translucent texture imparts a pleasing look to the curtain which makes any door or window appear attractive and enhances the beauty of your existing decor",
+			"prod_price": "1199",
+			"prod_rating": "4.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/White%20Designer%20Eyelet%20Window%20Curtain.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Luscious Light Blue Velvet Soft Eyelet Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Cortina's new range of designer sheer curtains are a touch of bliss in your home. The elegance of the pattern coupled with the translucent texture imparts a pleasing look to the curtain which makes any door or window appear attractive and enhances the beauty of your existing decor",
+			"prod_price": "2199",
+			"prod_rating": "4.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Luscious%20Light%20Blue%20Velvet%20Soft%20Eyelet%20Curtain.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Blue Color Solid Blackout Eyelet Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Fulfilling the purpose of framing your doorways, our aesthetically designed portiere or blackout door curtains are definitely a stylish addition to reduce dust in your home. Fixing multitude of purposes like hiding undesirable spaces, messy basement, and a bonus room our door curtains can be used according to your own choice. By not just blocking light from the spaces you want, blackout curtains are the primary choice for increasing energy efficiency and room insulation. Designed with high quality fabric, our door curtains are long-durable, color resistant, and perfectly hemmed. Make your doors more secure, vibrant, and graceful with our ingeniously designed patterns",
+			"prod_price": "1099",
+			"prod_rating": "3.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Blue%20Color%20Solid%20Blackout%20Eyelet%20Curtain.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Pretty Blue Designer Eyelet Door Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Cortina's new range of designer sheer curtains are a touch of bliss in your home. The elegance of the pattern coupled with the translucent texture imparts a pleasing look to the curtain which makes any door or window appear attractive and enhances the beauty of your existing decor",
+			"prod_price": "1990",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Pretty%20Blue%20Designer%20Eyelet%20Door%20Curtain.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Light Beige Designer Eyelet Door Curtain",
+			"prod_cat": "Curtains",
+			"prod_desc": "Relish an amazing uninterrupted sleep without much sunlight with our aesthetically crafted door curtains. Make your living space look more elegant, vibrant, and pleasing with our unique patterns and designs. Crafted by our skillful artisans, these curtains are a perfect addition to your home décor. Made from superior quality fabric, the curtains are breathable and are easy to maintain. Besides adding life to your home, the curtains are finely stitched, resistant to shrinkage and highly durable",
+			"prod_price": "2199",
+			"prod_rating": "3.3",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Light%20Beige%20Designer%20Eyelet%20Door%20Curtain.webp",
+			"prod_discount": "25",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Pretty Sunflower Cut Natural Coir Doormat",
+			"prod_cat": "Door Mats",
+			"prod_desc": "Doormats happen to enliven floors with colors and comfort. Also, a very important element for a clean floor as well as feet. Therefore, pick from our curated collection of resilient doormats made of natural coir that beautifully serves the purpose of a classic rug on the floor",
+			"prod_price": "899",
+			"prod_rating": "3.9",
+			"prod_image": "https://github.com/KManishY/product_image/blob/main/iMAGE/Pretty%20Sunflower%20Cut%20Natural%20Coir%20Doormat.jpg?raw=true",
+			"prod_discount": "5",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Pretty Sleeping Owls Cut Natural Coir Doormat",
+			"prod_cat": "Door Mats",
+			"prod_desc": "Doormats happen to enliven floors with colors and comfort. Also, a very important element for a clean floor as well as feet. Therefore, pick from our curated collection of resilient doormats made of natural coir that beautifully serves the purpose of a classic rug on the floor",
+			"prod_price": "899",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Pretty%20Sleeping%20Owls%20Cut%20Natural%20Coir%20Doormat.webp",
+			"prod_discount": "5",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Peppy Piano Pop Colors Designer Natural Coir Doormat",
+			"prod_cat": "Door Mats",
+			"prod_desc": "Doormats happen to enliven floors with colors and comfort. Also, a very important element for a clean floor as well as feet. Therefore, pick from our curated collection of resilient doormats made of natural coir that beautifully serves the purpose of a classic rug on the floor",
+			"prod_price": "999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Peppy%20Piano%20Pop%20Colors%20Designer%20Natural%20Coir%20Doormat.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Hello Pop Colors Printed Natural Coir Doormat",
+			"prod_cat": "Door Mats",
+			"prod_desc": "Doormats happen to enliven floors with colors and comfort. Also, a very important element for a clean floor as well as feet. Therefore, pick from our curated collection of resilient doormats made of natural coir that beautifully serves the purpose of a classic rug on the floor",
+			"prod_price": "1999",
+			"prod_rating": "3.8",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Hello%20Pop%20Colors%20Printed%20Natural%20Coir%20Doormat.webp",
+			"prod_discount": "25",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Hooray Funny Printed Natural Coir Doormat",
+			"prod_cat": "Door Mats",
+			"prod_desc": "Doormats happen to enliven floors with colors and comfort. Also, a very important element for a clean floor as well as feet. Therefore, pick from our curated collection of resilient doormats made of natural coir that beautifully serves the purpose of a classic rug on the floor",
+			"prod_price": "1089",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Hooray%20Funny%20Printed%20Natural%20Coir%20Doormat.webp",
+			"prod_discount": "25",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Hand Braided Spiral Designer Round Jute & Cotton Floormat",
+			"prod_cat": "Rugs & Carpets",
+			"prod_desc": "Get your floor a traditional yet classy touch with this handcrafted beauty. A much-needed decor essential for your floor, which directly complements your flavorful interior. Let your feet feel sheer delight of the soft cotton and delicate jute weaved together to form a sustainable piece of rug. Light up your regular decor with this unique product of dexterity. It is soft underfoot and appears to be a beautiful piece of artwork for your floor, rather than just a rug",
+			"prod_price": "4899",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Hand%20Braided%20Spiral%20Designer%20Round%20Jute%20%26%20Cotton%20Floormat.webp",
+			"prod_discount": "25",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Gold Foiled Designer Blue Tufted Area Carpet",
+			"prod_cat": "Rugs & Carpets",
+			"prod_desc": "Allow your feet to sink into supreme delight with our hand tufted woolen carpet. The attractive design imparts a sense of grandeur to any room. Light up your regular experience with our plush range of carpets. Made using high quality wool, this carpet ensures long lasting performance and comes with perfectly finished edges. It is soft underfoot and looks like a beautiful piece of artwork for your floor rather than just a carpet",
+			"prod_price": "5899",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Gold%20Foiled%20Designer%20Blue%20Tufted%20Area%20Carpet.webp",
+			"prod_discount": "25",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Aztec Patterned Yellow & Gray Designer Area Carpet",
+			"prod_cat": "Rugs & Carpets",
+			"prod_desc": "Get your floor a traditional yet classy touch with this handcrafted beauty. A much-needed decor essential for your floor, which directly complements your flavorful interior. Let your feet feel sheer delight of the soft cotton and delicate jute weaved together to form a sustainable piece of rug. Light up your regular decor with this unique product of dexterity. It is soft underfoot and appears to be a beautiful piece of artwork for your floor, rather than just a rug",
+			"prod_price": "5699",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Aztec%20Patterned%20Yellow%20%26%20Gray%20Designer%20Area%20Carpet.webp",
+			"prod_discount": "15",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Blue Striking Geometric Patterned Tufted Area Carpet",
+			"prod_cat": "Rugs & Carpets",
+			"prod_desc": "Get your floor a traditional yet classy touch with this handcrafted beauty. A much-needed decor essential for your floor, which directly complements your flavorful interior. Let your feet feel sheer delight of the soft cotton and delicate jute weaved together to form a sustainable piece of rug. Light up your regular decor with this unique product of dexterity. It is soft underfoot and appears to be a beautiful piece of artwork for your floor, rather than just a rug",
+			"prod_price": "10899",
+			"prod_rating": "5",
+			"prod_image": "https://github.com/KManishY/product_image/blob/main/iMAGE/Blue%20Striking%20Geometric%20Patterned%20Tufted%20Area%20Carpet.jpg?raw=true",
+			"prod_discount": "5",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "Orange & Brown Waves Modern Designer Area Carpet",
+			"prod_cat": "Rugs & Carpets",
+			"prod_desc": "Allow your feet to sink into supreme delight with our hand tufted woolen carpet. The attractive design imparts a sense of grandeur to any room. Light up your regular experience with our plush range of carpets. Made using high quality wool, this carpet ensures long lasting performance and comes with perfectly finished edges. It is soft underfoot and looks like a beautiful piece of artwork for your floor rather than just a carpet",
+			"prod_price": "6699",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Orange%20%26%20Brown%20Waves%20Modern%20Designer%20Area%20Carpet.webp",
+			"prod_discount": "10",
+			"prod_tag": "Furnishing"
+		},
+		{
+			"prod_name": "India Map Backlit Wooden Wall Decor",
+			"prod_cat": "All Backlit Wall Art",
+			"prod_desc": "This exquisite India Map Backlit Wood Wall Décor brings a unique decor for your bare walls with a great utility. This wall decor is matte finished with walnut color, made of imported Engineered wood. Ideal for living room, Bedroom, Study room, Kid's room. Can be used as knight light, wall decal etc. The package includes all accessories like nails, wall plugs, 2 amp electric adaptor instructions needed to hang on wall",
+			"prod_price": "4999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/India%20Map%20Backlit%20Wooden%20Wall%20Decor.webp",
+			"prod_discount": "5",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "7 Horses Backlit Wooden Wall Décor",
+			"prod_cat": "All Backlit Wall Art",
+			"prod_desc": "This exquisite 7 Horses Backlit Wood Wall Décor brings a unique decor for your bare walls with a great utility. The pattern of this wall decor is what makes it stand out from the crowd. Would you have seen something like this on the market and let it go? It’s modern, classy, and uniqueThis wall decore  is matte finished with walnut color, made of imported Engineered birch wood. Ideal for living room, Bedroom, Study room, Kid's room. Can be used as knight light, wall decal etc. The package includes all accessories like nails, wall plugs, 2 amp electric adaptor instructions needed to hang on wall.",
+			"prod_price": "10999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/7%20Horses%20Backlit%20Wooden%20Wall%20D%C3%A9cor.webp",
+			"prod_discount": "15",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Om Mandala Backlit Wall Decor",
+			"prod_cat": "All Backlit Wall Art",
+			"prod_desc": "A well-designed home should tell a story, and unique lighting is a perfect way to ensure it. Considering the same we have brought in unique Om Mandala Backlit wall art. Ideal for creating a homely feel but with a tint of creative flair. Our exclusive backlit wall decor comes in various designs that look beautiful and change the whole aura of any space. This backlit wall decor is the best decor to adorn your home during Diwali this year. Choose the best one for your decor",
+			"prod_price": "5999",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Om%20Mandala%20Backlit%20Wall%20Decor.webp",
+			"prod_discount": "15",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Ornate Meditating Buddha Metal Wall Art",
+			"prod_cat": "All Backlit Wall Art",
+			"prod_desc": "Ever wanted a wall décor made of strong metal with LED light installed? This ornate Buddha metal wall décor is what we can call a perfect décor element if you are a art lover. Intricately formed by our local artisans the metal used in the wall art is rust-resistant and remains the same even after years. Delicately decorated with hands, this metal wall decor is prestigious with a unique semblance. So whether its decorating your own home, office, café, and restaurant choose this art work effortlessly",
+			"prod_price": "11999",
+			"prod_rating": "4.7b",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Ornate%20Meditating%20Buddha%20Metal%20Wall%20Art.webp",
+			"prod_discount": "15",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "The Sole Branch & Birdies Metal Wall Art",
+			"prod_cat": "All Backlit Wall Art",
+			"prod_desc": "Ever wanted a wall décor made of strong metal with LED light installed? This Lit Branch metal wall décor is what we can call a perfect décor element if you are a art lover. Intricately formed by our local artisans the metal used in the wall art is rust-resistant and remains the same even after years. Delicately decorated with hands, this metal wall decor is prestigious with a unique semblance. So whether its decorating your own home, office, café, and restaurant choose this art work effortlessly",
+			"prod_price": "3999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/The%20Sole%20Branch%20%26%20Birdies%20Metal%20Wall%20Art.webp",
+			"prod_discount": "35",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Golden Nightscape Canvas Printed Painting",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "This digital art, with it's night mountain backdrop and golden trees creates an aura of richness, serenity and calm. The golden sand mounds are artistically  juxtaposed to create an atmosphere of beauty and taste",
+			"prod_price": "2999",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Golden%20Nightscape%20Canvas%20Printed%20Painting.webp",
+			"prod_discount": "14",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Lake of Moons Fantasy Canvas Printed Wall Painting",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "High definition picture photo prints on canvas. True colors on thick gloss canvas to create the look and feel of an artist's masterpiece. Lake of moons fantasy canvas print is on wooden frame with hooks mounted on each panel for easy hanging out of box. Our wall hangings make an ideal Valentine's Day gift, Christmas gift, New Year gift. Lake of moons fantasy canvas painting is perfect home decor and wall decor for living room, bedroom, kitchen, dining room, office, hotel, bar.We feature a paintings with thousands of paintings and canvas prints across styles including modern, contempord head board paintings, nature wall paintings, modern art paintings, indian wall paiary, abstract, famous, pop art. Our paintings encompasses designs for every taste and home theme like big paintings, panoramic paintings, bentings, spiritual wall paintings, Van Gogh paintings, Picasso paintings, Dali paintings, Monet paintings, Abstract paintings, Landscape painting, House oil paintings, hotel oil paintings or folk art",
+			"prod_price": "3099",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Lake%20of%20Moons%20Fantasy%20Canvas%20Printed%20Wall%20Painting.webp",
+			"prod_discount": "20",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Purple Ethereal Flora Framed Wall Art",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "This contemporary abstract canvas portrait of purple ethereal flowers brings in mystical beauty inside your home. This print can effortlessly bring a bout of color and imagination to any space. A perfect pick for someone looking to create a thought-provoking atmosphere, this painting looks vibrant. Being lovely and lively this canvas print can bring life to your space. Bubble wrapped carefully, the high quality wooden stretched cotton canvas comes with ready to hang hardware material for trouble-free installation. An ideal gifting statement, the personalized facility of gift packaging is available too. Suitable to place anywhere like in living room, bar, kitchen, bedroom it has the ability to bring about perfection in your decor",
+			"prod_price": "1999",
+			"prod_rating": "3.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Purple%20Ethereal%20Flora%20Framed%20Wall%20Art.webp",
+			"prod_discount": "14",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Fly High Abstract Art in Beautiful Golden Frames",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "Dive into an artistic wonder with our freshly crafted innovative semi-circle canvases. A few artistically composed canvas pieces of art can make a dramatic appearance in any of your rooms. These frames are finished and textured to look like unique original hand-painted work. The dramatic use of colors injects mystical beauty across this canvas. Adorn your walls with the beauty of this canvas painting or make it a great present for any occasion, whether it's a housewarming party or a birthday. However, you don't need a special occasion to treat someone special with a lovely piece of art",
+			"prod_price": "5999",
+			"prod_rating": "4.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Fly%20High%20Abstract%20Art%20in%20Beautiful%20Golden%20Frames.webp",
+			"prod_discount": "20",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Beautiful Eyes Modern Design Canvas Printed Painting",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "This canvas wall painting is inspired by surrealist art that was a European cultural movement, started after World War 1. The movement is highly acknowledged for its writing, visual artworks, and juxtaposition of distant realities that facilitate to activate the unconscious mind",
+			"prod_price": "999",
+			"prod_rating": "2.9",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Beautiful%20Eyes%20Modern%20Design%20Canvas%20Printed%20Painting.webp",
+			"prod_discount": "30",
+			"prod_tag": "Wall Art"
+		},
+		{
+			"prod_name": "Beautiful Girl Playing Violin Design Canvas Printed Painting",
+			"prod_cat": "Abstract & Modern Art",
+			"prod_desc": "High definition picture photo prints on canvas. True colors on thick gloss canvas to create the look and feel of an artist's masterpiece. Beautiful Girl Playing Violin canvas print is on wooden frame with hooks mounted on each panel for easy hanging out of box. Our wall hangings make an ideal Valentine's Day gift, Christmas gift, New Year gift. Beautiful Girl Playing Violin canvas painting is perfect home decor and wall decor for living room, bedroom, kitchen, dining room, office, hotel, bar.We feature a paintings with thousands of paintings and canvas prints across styles including modern, contempord head board paintings, nature wall paintings, modern art paintings, indian wall paiary, abstract, famous, pop art. Our paintings encompasses designs for every taste and home theme like big paintings, panoramic paintings, bentings, spiritual wall paintings, Van Gogh paintings, Picasso paintings, Dali paintings, Monet paintings, Abstract paintings, Landscape painting, House oil paintings, hotel oil paintings or folk art",
+			"prod_price": "8999",
+			"prod_rating": "5",
+			"prod_image": "https://raw.githubusercontent.com/KManishY/product_image/main/iMAGE/Beautiful%20Girl%20Playing%20Violin%20Design%20Canvas%20Printed%20Painting.webp",
+			"prod_discount": "20",
+			"prod_tag": "Wall Art"
+		}
+	]
+}
